@@ -30,8 +30,7 @@ A Correlation Analysis Exploring the Relationship Between Key Business Metrics"
    Contact,
     For questions or feedback, please contact Stella Mkpuma at stellamkpuma@gmail.com.
    
-   "version": "3.12.4"
-  }
+
  },
  "nbformat": 4,
  "nbformat_minor": 5
